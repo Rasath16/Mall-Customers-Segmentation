@@ -4,6 +4,9 @@
 
 Customer segmentation project using K-Means clustering to identify 5 distinct customer groups based on income and spending behavior.
 
+## Demo Video👇
+https://github.com/user-attachments/assets/5adf8743-830d-4240-b4ed-bda62b7f5430
+
 ## Quick Start
 
 ### Installation
